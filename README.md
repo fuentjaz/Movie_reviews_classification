@@ -7,7 +7,7 @@ Este proyecto representa un paso importante para entender cómo se pueden aplica
 
 ### Descripción de los datos
 Los datos se almacenan en el archivo imdb_reviews.tsv.
-
+Para descargar, visitar el siguiente link: https://practicum-content.s3.us-west-1.amazonaws.com/datasets/imdb_reviews.tsv?etag=bbd4a8dc10e6cf1280c42d7350105c41
 Los datos fueron proporcionados por Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, y Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. La Reunión Anual 49 de la Asociación de Lingüística Computacional (ACL 2011).
 
 **Aquí se describen los campos seleccionados:**
